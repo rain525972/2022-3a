@@ -12,4 +12,6 @@
 s = "Python Syntax "
 print s
 ```
+- [ ] todo list
+- [x] done
 
